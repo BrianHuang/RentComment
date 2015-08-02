@@ -57,6 +57,8 @@ GEM
       multipart-post (>= 1.2, < 3)
     globalid (0.3.5)
       activesupport (>= 4.1.0)
+    gmap_coordinates_picker (0.1.0)
+      rails (>= 3.1.0)
     hashie (3.4.2)
     httpauth (0.2.1)
     i18n (0.7.0)
@@ -164,6 +166,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
+  gmap_coordinates_picker
   jbuilder (~> 2.0)
   jquery-rails
   omniauth

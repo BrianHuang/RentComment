@@ -1,28 +1,17 @@
-== README
+# RentComment
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+RentComment is a place for tenant to leave comments to their landlord and their properties.
 
-Things you may want to cover:
+Features of RentComment:
 
-* Ruby version
+* Facebook Login
 
-* System dependencies
+* Google maps locating
 
-* Configuration
+* Properties and landlord rating
 
-* Database creation
+* Tenant rating
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Rental Board for landlord
 
 * ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
